@@ -1,0 +1,5 @@
+{
+  "name": "Suno AI Lyric Architect",
+  "description": "An AI-powered assistant that crafts custom lyrics and detailed style descriptions for Suno v5 based on your song ideas, following expert guidelines for professional results.",
+  "requestFramePermissions": []
+}
